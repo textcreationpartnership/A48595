@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech of William Earl of Crawford presented to the Parliament of Scotland. 1690.</title>
+            <author>Crawford, William Lindsay, Earl of, d. 1698.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48595</idno>
+            <idno type="STC">Wing L2327</idno>
+            <idno type="STC">ESTC R21417</idno>
+            <idno type="EEBO-CITATION">12616790</idno>
+            <idno type="OCLC">ocm 12616790</idno>
+            <idno type="VID">64417</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48595)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64417)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 964:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech of William Earl of Crawford presented to the Parliament of Scotland. 1690.</title>
+                  <author>Crawford, William Lindsay, Earl of, d. 1698.</author>
+               </titleStmt>
+               <extent>2 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.] ;</publisher>
+                  <publisher>By George Croom ...,</publisher>
+                  <pubPlace>Printed at Edinburgh :</pubPlace>
+                  <pubPlace>And re-printed at London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Caption title.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  Politics and government --  1689-1745.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <body>
+               <div type="account">
+                  <pb facs="tcp:64417:1"/>
+                  <pb facs="tcp:64417:1"/>
+                  <head>An Account of the late <hi>Great and Famous Victory</hi> Obtained over Two Thouſand High-Land Rebels, In the North of <hi>Scotland,</hi> by His Majeſty's Forces, Commanded by Sir <hi>Tho. Leviſtone,</hi> WITH A particular Relation of the Killing Five Hundred of the Enemy, and the Taking of One Huodred Priſoners; of which Number, were ſeveral Officers of Note.</head>
+                  <p>
+                     <hi>Licenſed, and Entered according to Order.</hi>
+                  </p>
+                  <p>JUſt now the Council received the following Account, by an Expreſs from Sir <hi>Thomas Leviſtone</hi> (who Commands a part of our Forces in the <hi>North</hi>) that he having intercepted ſome Letters which diſcovered ſome In<g ref="char:EOLhyphen"/>triegues of the Rebels, and the meaſures they deſigned to take; he immediately aſſembled his Forces, which conſiſted of Eleven Hundred Men, and marched all Night after the Enemy, who were to the Number of Two Thouſand: And, in their March, were forced to Ford a River up to their Arm-pits; Colonel <hi>Leviſtone,</hi> and other Officers, (to encourage the Soldiers) went in firſt: Our Men came up to the Enemy before day, and Attaqued them in their Camp; which was ſo great a ſur<g ref="char:EOLhyphen"/>priſe to them, that they immediately fled; and, in purſuit, there were Killed about Five Hundred of the Rebels, and One Hundred taken Priſoners, (among which were many conſiderable Officers of Note) with little loſs on our ſide. The Priſoners gave Sir <hi>Thomas</hi> an account, That they expected daily to be joyned by a great many more; of whom the Colonel de<g ref="char:EOLhyphen"/>ſigns to go in purſuit of; and doubts not, but in a very little time, to be able to give a very good account of them.</p>
+                  <p>On <hi>Saturday</hi> advice was brought to <hi>Edenbrough,</hi> from the <hi>Weſt,</hi> giving an ac<g ref="char:EOLhyphen"/>count, That a Ship Landed in <hi>Gallaway,</hi> near the Mouth of the Water of <hi>Oar,</hi> ſent from the late King <hi>James,</hi> from the Bay of <hi>Dublin,</hi> with Men, Arms, and Am<g ref="char:EOLhyphen"/>munition, <hi>&amp;c.</hi> they Landed ſome Men in the Night, undiſcovered, who have gone through the Country with ſeveral Letters from the late King <hi>James.</hi> The Country People in that Place being in a poſture of Defence, the next day ſeized the Veſſel in the River, with the Arms and Ammuniti<g ref="char:EOLhyphen"/>on, <hi>&amp;c.</hi> and Sixteen Officers, who are ſent for by the Council. This Ship car<g ref="char:EOLhyphen"/>ried but Four pieces of Cannon.</p>
+                  <p>As the happy News, which almoſt daily arrives from <hi>Ireland,</hi> of the good Succeſs His Majeſties Forces meets with there, both by Sea and Land, is ſufficient to en<g ref="char:EOLhyphen"/>courage the hopes all good <hi>Proteſtants,</hi> and Well-wiſhers to the Intereſt of great <hi>Brittain</hi> have, of a ſpeedy and intire Re<g ref="char:EOLhyphen"/>duction of that Kingdom, to the ſubjection of the Crown of <hi>England;</hi> So the no leſs happy Accounts we have received of His Majeſty's Affairs in the Kingdom of <hi>Scot<g ref="char:EOLhyphen"/>land</hi> confirms all good Men in their Belief of the ſpeedy and intire Settlement of that Kingdom, in the true Foundations of Peace and Unity; notwithſtanding the <hi>Roman Catholicks</hi> and other <hi>Jacobites,</hi> Enemies to the Intereſts of their Majeſties, and theſe Kingdoms, by their no leſs Impudent than falſe and ſcandalous Reports, which they daily ſpread abroad, with deſign to Poy<g ref="char:EOLhyphen"/>ſon the Minds of many well-meaning Peo<g ref="char:EOLhyphen"/>ple, and perſwade them to the contrary: For as hitherto Almighty <hi>God</hi> has bleſt His Majeſty, and His Arms with Succeſs, in all His no leſs Juſt and Righteous, than Great Undertakings; ſo we doubt not but He will continue his Bleſſing unto Their Majeſties, and Their good Subjects, and fruſtrate all the Deſigns of their <hi>Enemies.</hi> For a continuance of whoſe Bleſſing is, and ought to be the Prayers of all good Men.</p>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>
+                     <hi>London,</hi> Printed for <hi>W. D.</hi> in <hi>Bartholomew</hi>'s-Cloſe. 1690.</p>
+                  <pb facs="tcp:64417:2"/>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="speech">
+                  <pb n="1" facs="tcp:64417:2"/>
+                  <head>THE SPEECH OF <hi>William Earl of Crawfurd.</hi> PRESIDENT To the Parliament of <hi>Scotland.</hi> 1690.</head>
+                  <opener>
+                     <salute>My Lords and Gentlemen,</salute>
+                  </opener>
+                  <p>I May ſay with <hi>Nehemiah,</hi> to the Nobles, Rulers, and reſt of this Honou<g ref="char:EOLhyphen"/>rable Aſſembly; <hi>The work before us is great, let us not be ſeparated upon the Wall one far from another, and our God will do for us,</hi> Our Religion, Church-Government, Publick Safety, Laws and Liberties, are all at Stake; and the Enemy is watching for our halting in our endeavours, for every one of them: Yet if God countenance us, ſo that Duty be made plain, and we be helped to follow it, we are under the Protection of a Prince, who is a great Judge where our true Intereſt lyes, and I am convinced, will frankly deal to us, whatever upon a juſt Claim, we ſhall apply for.</p>
+                  <p>His Majeſties Printed Inſtructions for laſt Seſſion, are plain evidences of His tender regard of His People, and contain greater Condeſcentions than we have ſeen. or read of, in the Reigns of any of our Kings, for many Ages. But I truſt this new <hi>Dyer,</hi> will compleat that Tranquility, which we ſo impatiently wiſh and wait for: And that we ſhall be engaged to ſay of His Majeſty, as the Queen of <hi>Sheba</hi> did of <hi>Solomon; Bleſſed be the Lord thy God, which delighted in thee, to ſet Thee on the Throne, becauſe the Lord loved us, therefore made he the King to do Judgment and Juſtice.</hi>
+                  </p>
+                  <p>It were a ſuitable Return to His <hi>Majeſty,</hi> for the great things He hath done for us, to repoſe an intire Truſt in Him, and evidence a true Zeal for His Service; which in this Crittical time, as it would be moſt ſatisfying, and engaging to ſo generous a Prince: So it would be of notable advantage to His and our Affairs.</p>
+                  <p>Were it not a ſeaſonable part to guard againſt Prejudices towards one another, and when all is at Stake, to part with trivial differences, (our Enemies only reaping advantage by them) and to employ our ſelves to the outmoſt, for the Settlement of our Church, the Defence of the Kingdom, and the Enacting of other good Laws, now under our Conſideration: That we may comfortably and fully partake, of the wonderful Deliverance God hath wrought for us?</p>
+                  <p>If in our laſt Seſſion we had begun at the Houſe of God, other things might have framed better in our hands; hath not the Church Suffered ſadly by our Differences? And have not our delays made the Work more difficult? The Oppoſition at home, and Clamor abroad, had certainly been leſs, and
+<pb n="2" facs="tcp:64417:3"/>many honeſt ſuffering Miniſters ere now had been relieved of their Pinches, if a greater Diſpatch had been made. But what if any remainig Obſtacle ſhould prove a real Diſappointment in the Eſtabliſhing of our Church, would not the blame be lodged at our own Door? Some are at the ſame Language that was ſpoken in <hi>Haggai</hi>'s days; <hi>The time is not come that the Lord's Houſe ſhould be built:</hi> To ſuch I ſhall give the Prophets Anſwer, <hi>It is time for you to dwell in your Cieled Houſes, and this Houſe ly waſte?</hi>
+                  </p>
+                  <p>We have occaſion with <hi>Ezra,</hi> to Bleſs the Lord God of our Fathers, that the ſtop is not at the King's Door, but that he hath put ſuch a thing as this in his Heart, to Beautifie his Houſe with that Model, which ſhall be ſuited to the Inclinations of his People, which I truſt will be ſquared to the Pattern that was ſhewed in the Mount, and not merely regulated by Humane Policy.</p>
+                  <p>We are threatned by a Forreign Enemy, our Country is Infeſted at home, and the Kingdom ſadly expoſed to many great Inconveniencies: What ſhould become of us, if His Majeſty withdrew His ſpecial Protection, and we were left to the rage of our Enemies? Though our Church were Settled to the greateſt Advantage, and our other Grievances likewiſe Redreſſed, the Nation cannot be ſafe, without a ſupply ſuitable to the preſent Exigency.</p>
+                  <p>It is matter of heavy Regrate, that ſo many are Groaning under the load of Forfeitures and Fines, and His Majeſty willing to relieve them, and as yet no Iſſue put to thoſe deſirable Purpoſes.</p>
+                  <p>May the Wiſdom and Goodneſs of God, ſo Over-rule all our Counſels, that we be not impoſed upon by falſe Notions of things: Let neither Parti<g ref="char:EOLhyphen"/>ality on the one ſide, nor Paſſion on the other, either keep up former Differ<g ref="char:EOLhyphen"/>ences, or give a riſe to new ones, leſt it be ſaid of us, as was ſpoke by <hi>Ezra</hi> upon the like occaſion; <hi>And after all this is come upon us for our evil Deeds, and for our great Treſpaſs, ſeeing that thou our God haſt puniſhed us leſs than our Iniquities deſerve, and haſt given us ſuch Deliverance as this, ſhould we again break thy Commandments?</hi>
+                  </p>
+                  <p>What my Lord Commiſſioner ſpoke the other day, was delivered to ſuch advantage, that any enlargment I could make on it, would be like a raſh touch of a Pencil, by an unskilful hand, upon a compleat Picture; So I for<g ref="char:EOLhyphen"/>bear every thing of that kind.</p>
+                  <p>It is beyond Debate, that in this Honourable Aſſembly, the Hearts of a great many are very warm to His Majeſty, and that His, tho at a diſtance from us, is no leſs filled with thoughts of Favour to us: So if the Reſult of our Counſels be not comfortable to our ſelves, and of National Advantage, I am afraid, the preſent oppertunity of doing well, if neglected, ſhall prove a heavy Charge againſt us, in the Day of our Accounts.</p>
+                  <p>But as the Lord's hand hath been eminently ſeen in every ſtep of our late eſcape from Popery, and begun Reformation; So I truſt the Head-ſtone ſhall be put on with Shouting, and we ſhall in the Iſſue be forced to acknow<g ref="char:EOLhyphen"/>ledge, <hi>This is the Lord's doing, and it is marvelous in our Eyes.</hi>
+                  </p>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>Printed at <hi>Edinburgh:</hi> And Re-printed at <hi>London</hi> by <hi>George Croom,</hi> at the <hi>Blue-Ball</hi> in <hi>Thames-ſtreet.</hi> 1690.</p>
+               </div>
+            </back>
+         </text>
+      </group>
+   </text>
+</TEI>
